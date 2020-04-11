@@ -2,8 +2,9 @@
 dependencies: []
 
 galaxy_info:
+  role_name: docker
   author: Aaron W. West
-  description: Docker for Linux.
+  description: Ansible role that installs Docker
   min_ansible_version: 2.4
   platforms:
     - name: EL
